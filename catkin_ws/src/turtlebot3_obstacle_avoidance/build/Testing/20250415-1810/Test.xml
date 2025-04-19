@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250415-1810-Experimental"
+	Name="saif-Latitude-7390"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="saif-Latitude-7390"
+	OSRelease="5.15.0-136-generic"
+	OSVersion="#147~20.04.1-Ubuntu SMP Wed Mar 19 16:13:14 UTC 2025"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7797"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1900"
+	>
+	<Testing>
+		<StartDateTime>Apr 15 23:10 PKT</StartDateTime>
+		<StartTestTime>1744740627</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 15 23:10 PKT</EndDateTime>
+		<EndTestTime>1744740627</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
