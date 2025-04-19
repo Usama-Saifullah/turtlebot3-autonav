@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/saif/projects/turtlebot3-autonav/catkin_ws/devel/setup.sh
